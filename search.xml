@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>second</title>
-      <link href="/posts/undefined/"/>
-      <url>/posts/undefined/</url>
+      <title>第二篇文章！</title>
+      <link href="/2023/01/02/second/"/>
+      <url>/2023/01/02/second/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="测试一下"><a href="#测试一下" class="headerlink" title="测试一下"></a>测试一下</h2>]]></content>
       
       
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>第一篇文章！</title>
-      <link href="/posts/undefined/"/>
-      <url>/posts/undefined/</url>
+      <link href="/2022/11/22/HappyBirthday-ss/"/>
+      <url>/2022/11/22/HappyBirthday-ss/</url>
       
         <content type="html"><![CDATA[<h2 id="记录做网站"><a href="#记录做网站" class="headerlink" title="记录做网站"></a>记录做网站</h2>]]></content>
       
